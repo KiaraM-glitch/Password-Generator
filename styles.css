@@ -1,0 +1,30 @@
+.content{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: cornflowerblue;
+    padding: 20px;
+    width:100%
+}
+
+#display{
+    width: 100%;
+
+
+}
+
+#tokyodrifter{
+    width: 100%;
+}
+
+#length{
+    display: inline-block;
+    width: 100px;
+}
+
+.lastpasswds{
+    margin-bottom: 20px;
+}
+
+.justify-content-center {
+    justify-content: center !important;
+}
